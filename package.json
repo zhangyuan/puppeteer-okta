@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-okta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.0.0",
+    "speakeasy": "^2.0.0"
+  }
+}
